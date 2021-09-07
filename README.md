@@ -9,5 +9,5 @@ We all have played this game in our childhood.
 
 https://en.wikipedia.org/wiki/Rock_paper_scissors
 
-An online multiplayer game which can be palyed by two players.
+An online multiplayer game which can be played by two players.
 The game incorporates the basics of socket programming and uses it to build a  platform to play and participate in the game.
